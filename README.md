@@ -14,6 +14,7 @@ Se ha diseñado una aplicación para gestión de torneos, usando un enfoque orie
 ## Diagramas UML
 ### Diagrama de Casos de Uso
 ![Diagrama de casos de uso](diagrams/casos-uso.png)
+
 Este diagrama representa la interacción de **dos actores** con el sistema:
 
 - **Jugador**: Tiene la capacidad de registrar nuevos equipos, añadir jugadores a un equipo y consultar tanto los equipos registrados como los jugadores inscritos.
